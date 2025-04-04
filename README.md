@@ -81,10 +81,10 @@ Handles account details like Account Number, Password, and Balance.
 
 ## 🌟 Future Improvements
 
-- 🔒 Add password encryption using hashing (e.g., SHA256)
+- 🔒 Add password encryption using hashing
 - 🧠 Implement login system with multiple user support
-- 🌐 Use a database (e.g., SQLite) instead of plain text
-- ✨ Replace console with GUI (e.g., using Qt or SFML)
+- 🌐 Use a database instead of plain text
+- ✨ Replace console with GUI
 - 🛡️ Add input validation and exception handling
 
 ---
